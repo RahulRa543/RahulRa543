@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RahulRa543
-- 👀 I’m interested in Python and Web Development.
-- 🌱 I’m currently learning Python
+- 👀I am currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -@ kumarrahul76543@gmail.com
 - 
